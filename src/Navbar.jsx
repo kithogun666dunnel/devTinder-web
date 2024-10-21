@@ -1,9 +1,8 @@
-import React from 'react'
 
 const Navbar = () => {
-  return (<div className="bg-base-100 navbar">
+  return (<div className="bg-base-300 navbar">
   <div className="flex-1">
-    <a className="text-xl btn btn-ghost">daisyUI</a>
+    <a className="text-xl btn btn-ghost">DEV-N-DEV</a>
   </div>
   <div className="flex-none gap-2">
     <div className="form-control">
