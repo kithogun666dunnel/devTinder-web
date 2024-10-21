@@ -1,11 +1,11 @@
+import Body from "./Body"
+import Navbar from "./Navbar"
 
 function App() {
 
   return (
     <>
-     
-      <h1>hello world</h1>
-      
+    <Navbar/>
     </>
   )
 }
