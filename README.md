@@ -10,6 +10,11 @@
 
 - Create an Outlet in your Body Component
 - create a footer
+- create a Login page
+- install Axios
+- CORS -- install cors in Backend => add middleware to withCredential configuration : Origin,  credential: true
+- whenever you are making API call so pass with axios => {withCredential : true}
+- install redux tookit - https://redux-toolkit.js.org/tutorial/quick-start
 
 
 

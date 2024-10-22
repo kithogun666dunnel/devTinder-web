@@ -10,7 +10,7 @@ const Login = () => {
   const handleLogin = async (event) => {
     event.preventDefault(); // Prevents default form submission behavior
     try {
-      const res = await axios.post('https://localhost:7777/login', {
+      const res = await axios.post('http://localhost:7778/login', {
         emailId,
         password
       });
